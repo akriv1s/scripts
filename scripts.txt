@@ -1,0 +1,216 @@
+=== СПИСОК СКРИПТОВ (loadstring) ===
+
+ВНИМАНИЕ: Использование скриптов нарушает правила Roblox и может привести к блокировке аккаунта. Ссылки могут перестать работать после обновлений игры.
+
+
+## Аниме-игры
+
+Blox Fruits — Speed Hub X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+
+Blox Fruits — Quantum Onyx
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
+
+King Legacy — Tsuo Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy"))()
+
+King Legacy — Genesis Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mainloadergg/GenesisHub/refs/heads/main/KingLegacy.lua"))()
+
+Anime Vanguards — AtherHub
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2529a5f9dfddd5523ca4e22f21cceffa.lua"))()
+
+Anime Reborn — Speed Hub X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Anime%20Reborn.lua"))()
+
+Anime Champions — Perfectus Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PerfectusMim/Perfectus-Hub/main/perfectus-hub"))()
+
+Anime Realms — Nameless
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Anime-Realms/main/Nameless%20Scripts"))()
+
+Anime Legends Sim — Celestial Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JellyBagBeans/CelestialHub/main/GameLoader"))()
+
+Anime Dice — Serenity Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/atqraxiaa/SerenityHub/refs/heads/main/Games/Anime%20Dice/Main.luau"))()
+
+Anime Eternal — NS Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sh/refs/heads/main/a"))()
+
+Jujutsu Shenanigans — Nezia Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeziaReal/jjs/refs/heads/main/main.lua"))()
+
+Jujutsu Shenanigans — TBO
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript"))()
+
+Blue Lock Rivals — Nevan Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nevan32/BLUE-LOCK-RIVALS/refs/heads/main/Loader"))()
+
+Slayers 2 — Ouroboros Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/loader.lua"))()
+
+Rock Fruit — Pastebin-скрипт
+loadstring(game:HttpGet("https://pastebin.com/raw/dKwiFQaF"))()
+
+
+## Шутеры и PvP
+
+Blox Strike — Neverlose Alpha
+loadstring(game:HttpGet("https://raw.githubusercontent.com/muradholmatov307-dev/Neverlose/refs/heads/main/NeverloseAlpha"))()
+
+Blox Strike — Expectional Hub
+loadstring(game:HttpGet("https://expectional.dev/loadstring/Blox-Strike.lua"))()
+
+Blox Strike — NickHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nickk-GG/BloxStrike-NickHub/refs/heads/main/101.lua"))()
+
+Arsenal — Lithium Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sempiller/Lithium/refs/heads/main/main.lua"))()
+
+Arsenal — Vapa v2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua", true))()
+
+Rivals — Vylera Scripts
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/vylerarivals.lua"))()
+
+Rivals — ByNami
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ByNami/RIVALS/main/RIVALS.lua"))()
+
+Da Hood — Azure Modded
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+
+Da Hood — Mango X
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub', true))()
+
+Da Hood — VoidHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/coldena/voidhuba/refs/heads/main/voidhubload",true))()
+
+Prison Life — Nexus Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GwnStefano/NexusHub/main/Main", true))()
+
+Prison Life — Kill All + TP
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+
+Mad City — LKoPoJLb GUI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lKoPoJLb/Scripts/main/Loader.lua"))()
+
+The Strongest Battlegrounds — Phantasm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Games/TSB.lua"))()
+
+Blade Ball — Grandmaster Olo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandmasterOfLife123/lua/main/releasedbladeball.lua"))()
+
+Blade Ball — Speed X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FriezGG/Scripts/main/Speed%20X%20BladeBall"))()
+
+
+## Симуляторы и фарм
+
+Steal a Brainrot — Tora
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/StealaBrainrot"))()
+
+Steal a Brainrot — Feronik Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubINIT.lua"))()
+
+Grow a Garden — Tora
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/GrowaGarden"))()
+
+Pet Simulator 99 — 6FootScripts
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/main/Scripts/PetSimulator99.lua'))()
+
+Adopt Me — Ragesploit
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragesploit-x/Ragesploit/refs/heads/main/MainScript/ShitVersion.lua"))()
+
+Fisch — Black Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
+
+Fisch — Zenith Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/ZenithHub/refs/heads/main/Loader"))()
+
+Fish It — Kenniel Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Fish-It/refs/heads/main/Fish%20It"))()
+
+Dead Rails — Zephyr
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownlodfc/Zephyr/refs/heads/main/DeadRails/Main"))()
+
+Dead Rails — SpiderXHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderScriptRB/Sta1kerH1ck-/refs/heads/main/Dead%20Rails%20SpiderXHub.txt"))()
+
+Sol's RNG — Demonic Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua",true))()
+
+99 Nights in the Forest — m00ndiety
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m00ndiety/99-nights-in-the-forest/refs/heads/main/Main"))()
+
+99 Nights in the Forest — H4xScripts
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H4xScripts/Loader/refs/heads/main/loader.lua", true))()
+
+Ultimate Football — Legend Handles
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Ultimate/main/Football"))()
+
+Skibi Defense — Me1tan
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Me1tan/script/main/SkibiDefense"))()
+
+
+## Выживание, хорроры, паркур и RP
+
+Doors — BlackKing + BobHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub"))()
+
+Doors — Abysall Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bocaj111004/Abysall/refs/heads/main/Loader.luau"))()
+
+Tower of Hell — Sprin Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub",true))()
+
+Tower of Hell — Proxima Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))()
+
+BedWars — Vape V4
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
+
+BedWars — Aurora
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cocotv666/Aurora/refs/heads/main/Aurora_Loader'))()
+
+Murder Mystery 2 — YARHM
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+
+Murder Mystery 2 — ThunderHub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/thunderXhub/ThunderXHUB/refs/heads/main/loader'))()
+
+Brookhaven RP — SP Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Brookhaven"))()
+
+Brookhaven RP — Braxus Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lindao10/BRUXUS-HUB/refs/heads/main/BRUXUS%20HUB.LUA"))()
+
+Build A Boat For Treasure — SweetCheeks
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sweetcheeks713/Build-A-Boat-For-Treasure/main/Build A Boat For Treasure.lua"))()
+
+100 Days at Sea — SuperHacker
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperHackerYT/Main/refs/heads/main/100DaysatSeaOBF.lua"))()
+
+Fling Things and People — Xarvok Hub
+loadstring(game:HttpGet("https://gist.githubusercontent.com/lolwsg/f7addd848006471806f31592e0a27336/raw/9f42e2d0db75cf99b46ea10eb3ecdf98876cdbcd/fling", true))()
+
+
+## Универсальные хабы (работают во многих играх)
+
+Fly GUI V3 — любая игра
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+
+Infinite Yield — любая игра, админ-команды
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
+Hydro Hub — Blox Fruits, Brookhaven, MM2 и др.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FRX397/Hydrohub/main/Hydro_hub", true))()
+
+FATALITY — универсальный ESP + аим
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/FATALITY/refs/heads/main/FATALITY-UNIVERSAL.lua"))()
+
+ESP Players — подсветка игроков
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xt-el/ESP-Players/refs/heads/main/ESP"))()
+
+Speed Hub X — Blox Fruits, Fisch, Grow a Garden и др.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
