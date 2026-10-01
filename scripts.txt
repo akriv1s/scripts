@@ -2,15 +2,12 @@
 
 ВНИМАНИЕ: Использование скриптов нарушает правила Roblox и может привести к блокировке аккаунта. Ссылки могут перестать работать после обновлений игры.
 
-
-
-
-
-## Drive a kukirin
+Drive a kukirin
 loadstring(game:HttpGet("https://rawscripts.net/raw/(BETA-RELEASE)-Drive-A-Kukirin!-DRIVE-A-KKRIN-FREEZE-WHEELIE-ANTI-IDLE-F3X-MKORE-COMING!-228396"))()
+Drive a kukirin
 loadstring(game:HttpGet("https://rawscripts.net/raw/(BETA-RELEASE)-Drive-A-Kukirin!-Drive-a-*urin-228250"))()
 
-## Mog evolution
+Mog evolution
 loadstring(game:HttpGet("https://rawscripts.net/raw/W2-+1-Mog-Evolution-Best-autofarm-(Keyless)-228616"))()
 
 ## Аниме-игры
