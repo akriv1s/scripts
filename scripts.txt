@@ -2,6 +2,150 @@
 
 ВНИМАНИЕ: Использование скриптов нарушает правила Roblox и может привести к блокировке аккаунта. Ссылки могут перестать работать после обновлений игры.
 
+## DRIVE A KUKIRIN
+
+Noxious Hub
+https://raw.githubusercontent.com/NoxiousHub/Drive-A-kukurin-script/refs/heads/main/DriveAKukurin
+
+SIFER HUB (Money Farm + Auto Quest)
+https://rscripts.net/raw/sifer-hub-drive-a-kukirin_1743514612_r51z9nZBcN.txt
+
+## +1 MOG EVOLUTION
+
+Ouroboros Hub (Auto Mog, Auto Win, Auto Rebirth)
+https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/loader.lua
+
+Hacking Bros Script (Keyless, OP)
+https://scriptblox.com/script/+1-Mog-Evolution-Hacking-Bros-Script
+
+## A DESRT
+
+Keyless Menu (No Fall Damage, Fly)
+https://scriptblox.com/script/A-desrt-Keyless-Menu
+
+## BLOX FRUITS
+
+Gravity Hub (Auto Farm Magnet, Fishing)
+https://raw.githubusercontent.com/Dev-NightMystic/Bloxfruits/refs/heads/main/Script.lua
+
+REDz Hub (Auto Farm, Configurable)
+https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999.lua
+
+SAKURA HUB (Auto Farm, Fruit ESP)
+https://xenoscripts.com/script/blox-fruits-sakura-hub
+
+## PET SIMULATOR 99
+
+REDz Hub (Auto Farm, Auto Hatch)
+https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua
+
+## GROW A GARDEN
+
+Depthso Script (Auto-Sell, Auto-Walk, Auto-Buy)
+https://raw.githubusercontent.com/depthso/Grow-a-Garden/main/main.lua
+
+## BLADE BALL
+
+SP HUB (Auto Parry, ESP, Auto Play)
+https://xenoscripts.com/script/blade-ball-sp-hub
+
+WINDS HUB (Auto Parry, Auto Spam)
+https://xenoscripts.com/script/blade-ball-winds-hub
+
+## MURDER MYSTERY 2
+
+Yarhm Hub (Auto Farm, FPS Booster)
+https://xenoscripts.com/script/mm2-yarhm-hub
+
+FORGE HUB (Kill All, ESP, Auto Farm)
+https://xenoscripts.com/script/mm2-forge-hub
+
+## ADOPT ME
+
+ByteLaunch Script (Auto Farm Candy Egg, Keyless)
+https://raw.githubusercontent.com/bytelaunch-germany/adoptme-candyegg-farmer2026/main/loader.lua
+
+## BROOKHAVEN
+
+LOLA HUB (Troll, ESP, Kill, Teleport)
+https://xenoscripts.com/script/brookhaven-lola-hub
+
+## JAILBREAK
+
+Spark Hub (Silent Aim, Auto Arrest)
+https://xenoscripts.com/script/jailbreak-spark-hub
+
+## ARSENAL
+
+Catware Script (Aimbot, Silent Aim, ESP, Chams)
+https://xenoscripts.com/script/arsenal-catware-script
+
+## DOORS
+
+Abysall Hub (ESP, Auto Bypass, Keyless)
+https://xenoscripts.com/script/doors-abysall-hub
+
+## PRISON LIFE
+
+Sentry Hub (Silent Aim, Hitbox Expander)
+https://scriptverse.net/script/prison-life-sentry-hub
+
+## ANIME VANGUARDS
+
+Nougisi Script (Auto Farm, Macro)
+https://nousigi.com/loader.lua
+
+## 3008
+
+Scourge Loader (Auto-Shelter Builder, ESP, God Mode)
+https://robloxdatabase.com/scripts/3008-scourge/
+
+## DA HOOD
+
+Oxide Hub (Visuals, Teleport, Rage, Infinite Jump)
+https://xenoscripts.com/script/da-hood-oxide-hub
+
+## PIGGY
+
+StarHack Hub (Godmode, Item Giver, ESP)
+https://scriptblox.com/script/Piggy-StarHack-Hub
+
+## TOWER OF HELL
+
+Nexus Hub (Infinite Jump, Wallhop Helper)
+https://xenoscripts.com/script/tower-of-hell-nexus-hub
+
+## BEE SWARM SIMULATOR
+
+Verbal Hub (Find All Stickers, Auto Dig)
+https://xenoscripts.com/script/bee-swarm-verbal-hub
+
+## BOOGA BOOGA
+
+Identical Script (Combat Reach, Aura, Auto Farm)
+https://xenoscripts.com/script/booga-booga-identical
+
+## UNIVERSAL
+
+DUMI HUB (Aimbot FOV, ESP, Aim Lock)
+https://xenoscripts.com/script/universal-script-dumi-hub
+
+Infinite Yield (200+ команд)
+https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source
+
+Dark Dex (Explorer дерева игры)
+https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/Dark%20Dex.lua
+
+SimpleSpy (Remote Spy)
+https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua
+
+Hydroxide (Продвинутый Remote Spy)
+https://raw.githubusercontent.com/Upbolt/Hydroxide/master/src/hydroxide.lua
+
+
+
+
+
 Drive a kukirin
 loadstring(game:HttpGet("https://rawscripts.net/raw/(BETA-RELEASE)-Drive-A-Kukirin!-DRIVE-A-KKRIN-FREEZE-WHEELIE-ANTI-IDLE-F3X-MKORE-COMING!-228396"))()
 Drive a kukirin
